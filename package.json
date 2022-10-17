@@ -1,6 +1,8 @@
 {
   "name": "react",
   "version": "1.0.0",
+  "private": true,
+  "homepage": "https://aditi-hinge.github.io/memory-game",
   "description": "React example starter project",
   "keywords": ["react", "starter"],
   "main": "src/index.js",
@@ -14,6 +16,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
