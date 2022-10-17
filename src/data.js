@@ -2,26 +2,31 @@ export const menu = [
   {
     id: 1,
     name: "Coffee",
-    price: "280",
+    price: "480",
+    qty: 0
   },
   {
     id: 2,
     name: "Tea",
-    price: "380",
+    price: "280",
+    qty: 0
   },
   {
     id: 3,
-    name: "Coke",
-    price: "400",
+    name: "Milk",
+    price: "180",
+    qty: 0
   },
   {
     id: 4,
-    name: "Milk",
-    price: "500",
+    name: "Coke",
+    price: "190",
+    qty: 0
   },
   {
     id: 5,
     name: "Beer",
     price: "580",
-  },
+    qty: 0
+  }
 ];
