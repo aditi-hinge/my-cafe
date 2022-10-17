@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-cafe/static/css/main.a5ac359a.chunk.css",
+    "main.js": "/my-cafe/static/js/main.8d954a81.chunk.js",
+    "main.js.map": "/my-cafe/static/js/main.8d954a81.chunk.js.map",
+    "runtime-main.js": "/my-cafe/static/js/runtime-main.adb067a5.js",
+    "runtime-main.js.map": "/my-cafe/static/js/runtime-main.adb067a5.js.map",
+    "static/js/2.0018e430.chunk.js": "/my-cafe/static/js/2.0018e430.chunk.js",
+    "static/js/2.0018e430.chunk.js.map": "/my-cafe/static/js/2.0018e430.chunk.js.map",
+    "index.html": "/my-cafe/index.html",
+    "static/css/main.a5ac359a.chunk.css.map": "/my-cafe/static/css/main.a5ac359a.chunk.css.map",
+    "static/js/2.0018e430.chunk.js.LICENSE.txt": "/my-cafe/static/js/2.0018e430.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-cafe/static/media/cafe.87ad7f77.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adb067a5.js",
+    "static/js/2.0018e430.chunk.js",
+    "static/css/main.a5ac359a.chunk.css",
+    "static/js/main.8d954a81.chunk.js"
+  ]
+}
